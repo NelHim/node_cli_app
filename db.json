@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "id": 1708880060847,
+      "tags": [
+        "Developer"
+      ],
+      "content": "This is the very first note"
+    },
+    {
+      "id": 1708880116241,
+      "tags": [],
+      "content": "This is the very second note"
+    },
+    {
+      "id": 1708880149930,
+      "tags": [
+        "And this is my fifth note"
+      ],
+      "content": "This is the very third note"
+    }
+  ]
+}
