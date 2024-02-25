@@ -1,1 +1,1 @@
-# node_cli_app
+# notes_cli_app
